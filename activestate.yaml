@@ -1,0 +1,7 @@
+name: Test
+owner: ActiveState
+version: master
+environments: test
+variables:
+  - name: TEST
+    value: 'test'
